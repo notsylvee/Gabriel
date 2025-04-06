@@ -1,0 +1,16 @@
+{
+    "voicelines": [
+        { "path": "turnback", "text": "Machine, turn back now. The layers of this palace are not for your kind. Turn back, or you will be crossing the will of God." },
+        { "path": "choiceismade", "text": "Your choice is made. As the righteous hand of the father, I shall *rend you apart*, and you will become inanimate once more." },
+        { "path": "BEHOLD", "text": "BEHOLD! THE POWER OF AN ANGEL!" },
+        { "path": "enough", "text": "Enough!" },
+        { "path": "insignificant", "text": "What..? How can this be? Bested by this… this *thing*..? You *insignificant* **FUCK!** ***THIS IS NOT OVER!***" },
+        { "path": "woes", "text": "May your woes be many, and your days few." },
+        { "path": "insolantstench", "text": "Machine, I know you're here. I can smell the insolent stench of your bloodstained hands. I await you down below." },
+        { "path": "come", "text": "Come to me." },
+        { "path": "limbo", "text": "Limbo. Lust. All gone… with Gluttony soon to follow. Your kind know nothing but hunger- purged all life on the upper layers, and yet they remain unsatiated… as do you. You've taken everything from me, machine. And now all that remains is PERFECT *HATRED*." },
+        { "path": "HEREANDNOW", "text": "Machine, I will cut you down, break you apart, splay the gore of your profane form across the STARS! I will grind you down until the very SPARKS CRY FOR MERCY! My hands shall RELISH ENDING YOU… HERE AND *NOW!*" },
+        { "path": "BESTYOUVEGOT", "text": "IS THAT THE BEST YOU'VE GOT?!" },
+        { "path": "twice", "text": "Twice?! Beaten by an object… Twice! I've only known the taste of victory, but this taste… Is- Is this my blood? I've never known such… Such… relief? I- I need some time to think… We will meet again, machine." }
+    ]
+}
