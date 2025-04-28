@@ -19,7 +19,6 @@ module.exports = {
                 attachment: `sounds/${voiceline.path}.wav`,
                 name: `${voiceline.path}.wav`
             }],
-            ephemeral: false
         });
       },
 }
