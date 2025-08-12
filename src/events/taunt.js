@@ -5,7 +5,6 @@ module.exports = {
     async execute(message) {
 
         if (message.author.bot || !message.guild) return;
-        if (!message.guild.members.me.permissionsIn(message.channel.id).has(PermissionFlagsBits.SendMessages)) return;
         const chance = Math.random() * 500;
         const taunts = [
           "You defy the light!",
@@ -39,7 +38,7 @@ module.exports = {
         if (chance < 497) {
             return;
           } else {
-            message.channel.send(`${taunt}`);
+            message.channel.send(`${taunt}`).catch((err) => {return});
           };
     },
 };
